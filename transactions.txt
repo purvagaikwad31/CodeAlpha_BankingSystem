@@ -1,0 +1,9 @@
+Deposited: Rs. 1000.000000
+Withdrawn: Rs. 500.000000
+Deposited: Rs. 100.000000
+Withdrawn: Rs. 500.000000
+Deposited: Rs. 1000.000000
+Withdrawn: Rs. 500.000000
+Deposited: Rs. 100.000000
+Withdrawn: Rs. 500.000000
+Deposited: Rs. 400.000000
